@@ -85,7 +85,7 @@
         <mxCell id="9LbVqNVVqpxAe8NnLPx7-19" value="V_threshold" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="315" y="180" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9LbVqNVVqpxAe8NnLPx7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=3;" parent="1" source="9LbVqNVVqpxAe8NnLPx7-20" target="9LbVqNVVqpxAe8NnLPx7-29" edge="1">
+        <mxCell id="9LbVqNVVqpxAe8NnLPx7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#808080;strokeWidth=3;" parent="1" source="9LbVqNVVqpxAe8NnLPx7-20" target="9LbVqNVVqpxAe8NnLPx7-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="495" y="225" />
