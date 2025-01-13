@@ -1,9 +1,65 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0" version="25.0.1">
   <diagram name="Page-1" id="2EOwtidqCXmwng7h1azL">
-    <mxGraphModel>
+    <mxGraphModel dx="569" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WaX1ikByiurhSoc-PNVz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WaX1ikByiurhSoc-PNVz-1" target="WaX1ikByiurhSoc-PNVz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WaX1ikByiurhSoc-PNVz-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="70" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WaX1ikByiurhSoc-PNVz-2" value="&lt;div&gt;Rec&lt;/div&gt;&lt;div&gt;weights&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="190" y="170" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WaX1ikByiurhSoc-PNVz-3" value="&lt;div&gt;FF&lt;/div&gt;&lt;div&gt;weights&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WaX1ikByiurhSoc-PNVz-4" value="Neurons" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WaX1ikByiurhSoc-PNVz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WaX1ikByiurhSoc-PNVz-5" target="WaX1ikByiurhSoc-PNVz-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="240" />
+              <mxPoint x="35" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WaX1ikByiurhSoc-PNVz-5" value="Splitter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WaX1ikByiurhSoc-PNVz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WaX1ikByiurhSoc-PNVz-6" target="WaX1ikByiurhSoc-PNVz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WaX1ikByiurhSoc-PNVz-6" value="Merger" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="130" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WaX1ikByiurhSoc-PNVz-10" value="UART" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="10" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WaX1ikByiurhSoc-PNVz-16" value="&lt;b&gt;0-783&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fillColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WaX1ikByiurhSoc-PNVz-18" value="&lt;b&gt;0-10&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="285" y="120" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WaX1ikByiurhSoc-PNVz-19" value="&lt;b&gt;0-783&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fillColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="80" y="125" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WaX1ikByiurhSoc-PNVz-20" value="&lt;b&gt;784-794&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="120" y="125" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WaX1ikByiurhSoc-PNVz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.889;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WaX1ikByiurhSoc-PNVz-5" target="WaX1ikByiurhSoc-PNVz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WaX1ikByiurhSoc-PNVz-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.086;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="WaX1ikByiurhSoc-PNVz-6" target="WaX1ikByiurhSoc-PNVz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WaX1ikByiurhSoc-PNVz-25" value="&lt;b&gt;0-10&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="30" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
