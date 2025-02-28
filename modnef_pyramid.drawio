@@ -28,7 +28,7 @@
         <mxCell id="NZIxC8TL8wMjV6MJ8bOk-6" value="Model Genarator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NZIxC8TL8wMjV6MJ8bOk-7" value="Network Model Generator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NZIxC8TL8wMjV6MJ8bOk-7" value="Network Trainer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="315" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NZIxC8TL8wMjV6MJ8bOk-8" value="Project Executor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
