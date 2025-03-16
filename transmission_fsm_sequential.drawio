@@ -43,9 +43,6 @@
         <mxCell id="VEaSsE62jDZdbeiAd7b5-15" value="&lt;span style=&quot;color: rgb(51, 51, 255);&quot;&gt;ack=0&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VEaSsE62jDZdbeiAd7b5-17" value="&lt;div&gt;&lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;emu_busy=1&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="280" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="VEaSsE62jDZdbeiAd7b5-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VEaSsE62jDZdbeiAd7b5-18" target="VEaSsE62jDZdbeiAd7b5-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
