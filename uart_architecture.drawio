@@ -78,6 +78,9 @@
         <mxCell id="RRzIoH8kN4mmtfsmMlXw-18" value="rx_data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="325" width="30" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="RRzIoH8kN4mmtfsmMlXw-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RRzIoH8kN4mmtfsmMlXw-19" target="RRzIoH8kN4mmtfsmMlXw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RRzIoH8kN4mmtfsmMlXw-19" value="Emulation FSM Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="480" width="120" height="60" as="geometry" />
         </mxCell>
@@ -170,6 +173,9 @@
         </mxCell>
         <mxCell id="RRzIoH8kN4mmtfsmMlXw-52" value="rxd" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="215" width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="RRzIoH8kN4mmtfsmMlXw-55" value="start transmission" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="445" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
