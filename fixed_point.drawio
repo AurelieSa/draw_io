@@ -7,10 +7,10 @@
         <mxCell id="G5-f84QCESc4KO4eGYYg-1" value="s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="330" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G5-f84QCESc4KO4eGYYg-2" value="int" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G5-f84QCESc4KO4eGYYg-2" value="integer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="330" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G5-f84QCESc4KO4eGYYg-3" value="frac" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G5-f84QCESc4KO4eGYYg-3" value="fractional" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="330" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G5-f84QCESc4KO4eGYYg-13" value="0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
