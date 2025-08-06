@@ -1,9 +1,44 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.0.7">
   <diagram name="Page-1" id="TITcCzH7F6CRfOhPjg9p">
-    <mxGraphModel>
+    <mxGraphModel dx="815" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Aim-eoc5MzHXusvURDUQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aim-eoc5MzHXusvURDUQ-1" target="Aim-eoc5MzHXusvURDUQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aim-eoc5MzHXusvURDUQ-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.microphone;" vertex="1" parent="1">
+          <mxGeometry x="140" y="145" width="12" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aim-eoc5MzHXusvURDUQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aim-eoc5MzHXusvURDUQ-2" target="Aim-eoc5MzHXusvURDUQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aim-eoc5MzHXusvURDUQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aim-eoc5MzHXusvURDUQ-2" target="Aim-eoc5MzHXusvURDUQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aim-eoc5MzHXusvURDUQ-2" value="Cochlea" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="220" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aim-eoc5MzHXusvURDUQ-5" value="Sperm whale detector (SNN)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aim-eoc5MzHXusvURDUQ-7" value="Processing Unit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aim-eoc5MzHXusvURDUQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.609;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Aim-eoc5MzHXusvURDUQ-5" target="Aim-eoc5MzHXusvURDUQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aim-eoc5MzHXusvURDUQ-9" value="wake up" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Aim-eoc5MzHXusvURDUQ-8">
+          <mxGeometry x="0.18" y="2" relative="1" as="geometry">
+            <mxPoint x="27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aim-eoc5MzHXusvURDUQ-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Aim-eoc5MzHXusvURDUQ-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="152" y="160" as="sourcePoint" />
+            <mxPoint x="202" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
