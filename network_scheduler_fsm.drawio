@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1o3xAckalyLWF7qE3SYY-15" value="Wait HL" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="390" width="70" height="50" as="geometry" />
+          <mxGeometry x="370" y="390" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1o3xAckalyLWF7qE3SYY-17" value="i_accu_busy=0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="475" y="360" as="geometry" />
@@ -70,11 +70,11 @@
         <mxCell id="1o3xAckalyLWF7qE3SYY-18" value="o_start_hl=1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="445" y="370" width="60" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="1o3xAckalyLWF7qE3SYY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1o3xAckalyLWF7qE3SYY-19" target="1o3xAckalyLWF7qE3SYY-23">
+        <mxCell id="1o3xAckalyLWF7qE3SYY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="1o3xAckalyLWF7qE3SYY-19" target="1o3xAckalyLWF7qE3SYY-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1o3xAckalyLWF7qE3SYY-19" value="Wait HL" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="390" width="70" height="50" as="geometry" />
+          <mxGeometry x="225" y="390" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1o3xAckalyLWF7qE3SYY-21" value="i_hl_busy=1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#0000FF;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="335" y="400" as="geometry" />
